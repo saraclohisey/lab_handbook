@@ -110,6 +110,8 @@ If you can not access the lab calendar ask Kenny or Sara to invite you. It requi
 
 Take them. If you are sick stay at home unless it is absolutely 100% necessary to come in to work (e.g. an entire experiment will be ruined because you can’t find someone to cover for you - this is a VERY unlikely event). Nobody wants your germs. Take the time to rest or if you are feeling well enough to work find something you can do at home -writing, catching up on the literature, the list is usually endless…
 
+If you live alone, or will be alone temporarily, and are sick please let us know. This is aimed in particular at international students. Do not suffer through sickness alone, it can be scary.
+
 If you are staff, you are expected to inform Kenny and HR, as per institute policy, when you take a sick day. 
 
 #### Holidays
