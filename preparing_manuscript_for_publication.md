@@ -10,9 +10,9 @@ This document assumes you have a paper written that your PI is happy with and yo
 Dear X
 Attached is the final draft of manuscript "[TITLE]". Thank you all for your excellent contribution to this work. 
 
-We plan to submit to [JOURNAL] by [DATE] and we would apprecaited revisions and comments before this.
+We plan to submit to [JOURNAL] by [DATE] and we would appreciate your revisions and comments before this date so we may incorporate them.
 
-If we don't hear from you we will assume you are OK with the submission of this manuscript.
+If we don't hear from you, we will assume you are OK with the submission of this manuscript.
 
 Thanks again,
 
