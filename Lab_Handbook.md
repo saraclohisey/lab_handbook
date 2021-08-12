@@ -169,7 +169,7 @@ There is a degree of independence to the role of post-doc and they are expected 
 
 
 #### Research Assistants/Lab Managers 
-RAs are paid researchers carrying out designated, funded laboratory work. For most intents, RAs play similar, less independent, roles to post-docs and work on multiple projects, as hours permit.
+RAs are paid researchers carrying out designated, funded laboratory work. For most intents, RAs play similar, less independent, roles to post-docs and work on multiple projects, as hours permit. Often RAs are more concerned with the technical aspects of a project (they make everything work!!)
 
 #### PhD students
 The main priority of a PhD student is completing a coherent body of research for their thesis. All of the research they undertake for that project could end up being published on its own, but pieces could also be integrated into other lab projects. This is one reason cross-project continuity is important. PhD students will usually move on to a research job elsewhere once their education is complete. At that point, research they carried out that hasn’t been published yet may not be their top priority, and the PI and post-docs can be helpful in ensuring that unfinished strands of work continue to flourish.
@@ -188,6 +188,8 @@ The responsibilities of lab members are detailed in the section 'Your work' belo
 In order to have confidence in our work, it is important that others are able to reproduce our results. Reproducible research is an essential component of science and an expectation for all projects coming out of the lab.
 
 #### Dry lab work
+
+**SOPS NEED TO BE ESTABLISHED BY END 2021**
 
 To ensure reproducibility your analysis pipeline should be well organized and well documented. 
 
@@ -226,6 +228,15 @@ Design experiments with someone else, do not trust your experimental design unti
 It is vitally important you keep a good record of your specialised reagents, especially expensive ones, and anything you create.
 For this reason in 2021 we are implementing a systematic way of recording EVERYTHING.
 
+
+...
+...
+
+...
+
+
+EVERYTHING PEOPLE> EV.REE.THING. 
+
 ###### Freezers
 
 - Freezers are cold dark bottomless pits. Remember this.
@@ -246,10 +257,11 @@ This also means you shouldn’t be afraid to ‘bug’ someone about it.
 * For manuscript submission and revisions (i.e. when there is no hard deadline) send drafts to Kenny as soon as you have them and bug him to give you feedback if two weeks have passed.
 
 Nagging is a useful skill. Deploy only when required for maximum efficiency.
+All timescales above refer to 'peacetime'. In 'unprecedented' times, schedules will vary.
 
 ### Communication - practical
 
-You can't work alone. Science is by nature collaboative. Please answer emails and keep in contact with lab members, especially those you're directly working with!!
+You can't work alone. Science is by nature collaborative. Please answer emails and keep in contact with lab members, especially those you're directly working with!!
 
 * Slack - this is the main mode of communication in the lab. The #general channel is reserved for announcements and chat. Specific dedicated channels are available for projects and you will be added to those relevant to you (if you think there's a channel you should join speak with Kenny!)
 
@@ -264,7 +276,7 @@ Most lab members will be part of multiple Slack groups and notifications can get
 Grants are usually held by specific people.
 
 #### Your own grant
-Spend your grant responsibly. You will be free to spend without approval up to a specific pre-defined amount. It's the repsonsibility of the grant holder to keep track of what is left and ensure the grant is managed appropriately.
+Spend your grant responsibly. You will be free to spend without approval up to a specific pre-defined amount. It's the responsibility of the grant holder to keep track of what is left and ensure the grant is managed appropriately.
 
 #### Project grants
 We have a responsibility to funders to spend grants appropriately. Do not spend grant money from project A on project B!
@@ -278,17 +290,17 @@ These will be accessible to all lab members and will be used to support core lab
 Normally, any money not used in  agrant will be taken back by the funder.
 
 If you are coming to the end of a grant work on a 3 month deadline:
--Month e-3 = Determine what you will need after your grant end date, plan and contact reps to detrmine shipping dates for laregr items.
+-Month e-3 = Determine what you will need after your grant end date, plan and contact reps to detrmine shipping dates for larger items.
 -Month e-2 = Order what you need. Try not to order *after* e-2.
 -Month e-1 = Your invoices for last month will now come in. Everything will come out of the remianing grant balance before it ends and finance is not angry with you.
-e = end of grant. Stop using the grant code - it will casue you a bigger headache in a month. Trust me.
+e = end of grant. Stop using the grant code - it will cause you a bigger headache in a month. Trust me.
 
 ### Work Life Balance
 You have a responsibility to yourself, to be happy and healthy, and to the lab, to be the best you can reasonably be. This means taking a break.
 
 While there may be a period of time where you enjoy spending all of your time working (or feel like you must to meet a deadline), it is important to offset these periods with other relaxing and/or fulfilling endeavours. 
 
-Unless there's something going on that you feel you *need* to be present for (last minute grant, paper for example), turn off notifications from email and Slack outside your normal working hours. 
+Unless there's something going on that you *need* to be present for (last minute grant, paper for example), turn off notifications from email and Slack outside your normal working hours. 
 
 
 ---
@@ -313,7 +325,7 @@ https://www.huffpost.com/entry/how-to-read-and-understand-a-scientific-paper_b_5
 
 ### Critical appraisal of the literature
 
-(as requested by Sara 20 Nov 2020 following journal club)
+<!--(as requested by Sara 20 Nov 2020 following journal club)-->
 
 Some ideas for systematically reviewing a paper - these come from appraisal of an RCT (randomised clinical trial, or 'human experiment') but perhaps some of the points are valid for any experiment.
 
@@ -342,6 +354,9 @@ System to critically appraise a paper
 
 
 ### Concise, understandable writing.
+
+*Get it writ then get it right*
+
 Writing takes practice, just look at all the typos Sara managed to make in this document. 
 During your scientific career there are two things you will not be able to avoid writing:
 - Your thesis
@@ -349,7 +364,7 @@ During your scientific career there are two things you will not be able to avoid
 And if you choose to continue in academia, good luck avoiding grant applications.
 Each document will have its own structure and layout but all will require clear and concise writing. Practice as often as you can and improve by getting feedback. 
 
-One of the most important things to remember about writing is that it is difficult. And that's ok. Scientific writing is a particular style of writing. In Sara's PhD supervisor's words "This is not a Guardian article". It is short sentences, it is jargon while trying to sound clear, it is no split infinitives. 
+One of the most important things to remember about writing is that it is difficult. And that's ok. Scientific writing is a particular style of writing.  It is short sentences, it is jargon while trying to sound clear, it is no split infinitives. 
 
 Here are some resources to help you get started with writing:
 https://www.nature.com/articles/d41586-018-02404-4
@@ -389,7 +404,7 @@ Designing a slide is an art. There are some guidelines you can follow that can h
 
 - Put the conclusion in the title. That way if someone doesn't listen to you, your point is right there on the top of the slide.
 - Less is more, particularly with text. No one is reading a wall of text. A few words should be sufficient to communicate your conclusion.
-- Pictures tell 1000 words. Use pictures where you can to communicate ideas. Not only will creating the pictures help you solidify your ideas but they are easier for your audience to digest when they look up from facebook.
+- Pictures tell 1000 words. Use pictures where you can to communicate ideas. Not only will creating the pictures help you solidify your ideas but they are easier for your audience to digest when they look up from Facebook.
 - Keep animations to a minimum. Animations should be used to slowly introduce ideas and guide your audience.
 - Keep slides consistent. Choose a style and stick to it.
 - Make it colour blind friendly. It's just polite.
