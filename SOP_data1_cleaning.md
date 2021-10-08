@@ -1,6 +1,8 @@
 # SOP_data1_cleaning
-# date 20211008
-# Authors: Steven Kerr, Baillie Lab group attendees 20211006.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+date 20211008
+Authors: Steven Kerr, Baillie Lab group attendees 20211006.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 # Aim
 The aim of this SOP is to provide a framework for lab members to examine and clean their datasets upon receipt. 
