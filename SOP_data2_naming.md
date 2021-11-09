@@ -4,7 +4,7 @@ date 20211008
 Authors: Baillie Lab group attendees 20211006.
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 # Aim
-The aim of this SOP is to ensure consistency in code and filename readability. The follwoing principles will be applied:
+The aim of this SOP is to ensure consistency in code and filename readability. The following principles will be applied:
 
 
 1. The variable name must describe the information represented by the variable. A variable name should tell you specifically in words what the variable stands for.
