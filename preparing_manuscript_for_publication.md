@@ -37,23 +37,28 @@ The tidier your submission is, the higher your chance of having it accepted!
 - [ ] Are all tables/figures (including supplementary!) referenced in the text?
 - [ ] Does the order of figures, tables, supplementary tables follow the order they're mentioned in the text?
 - [ ] Are the tables in your Supplementary Tables file in the right order, i.e., does Table S2 still follow Table S1?
-- [ ] If you have any paper-wide set orders of things (like species B, species C, species D), are they consistent in the text, tables, figures?
-- [ ] Are all special words consistently spelled? for example, does the text switch from 'AA-genome' to 'A-genome', or from 'A-genome' to 'A genome'?
-
 - [ ] Are your figures color-blind friendly? Check with tools like http://mapeper.github.io/jsColorblindSimulator/ (thanks @Psy_Fer_, @AgnieszkaGolicz, @_erikaroper!)
+- [ ] Is your coloring scheme consistent across figures, where applicable?
+- [ ] Are the supplementary tables/figures pretty enough, numbers correctly formatted, table headers detailed enough?
+~
+- [ ] If you have any paper-wide set orders of things (like species B, species C, species D), are they consistent in the text, tables, figures?
 - [ ] Is there any leftover placeholder text like (CITATION), doi://XYZ, Table X, [TODO]? 
+- [ ] Are species names in your text/figures/tables in italics?
+- [ ] Are all special words consistently spelled? for example, does the text switch from 'AA-genome' to 'A-genome', or from 'A-genome' to 'A genome'?
+~
+- [ ] **Do you need to inform any collaborators or organisations prior to submission or publication?**
 - [ ] Have you forgotten a co-author?
 - [ ] Is everyone's **name** spelled as in their other papers? 
     - [ ] What about their affiliations?
     - [ ] Orcid IDs
+~
 - [ ] Reread the journal's formatting rules - are you really following them? Are you sure about the order of your sections, and that you have all required sections?
 - [ ] Are your references in the right format? Do you have in-text references not in your References block? Are species names in italics? 
 - [ ] Do you have duplicated references? (You can have Person 2016a and Person 2016b, but they're just two slightly differently spelled entries in your library)
-- [ ] Are species names in your text/figures/tables in italics?
+~
 - [ ] Is your data deposited in the required repositories (SRA, Zenodo etc.), and is the link in the manuscript? (thanks @sarvenaz_s!)
-- [ ] Is your coloring scheme consistent across figures, where applicable?
-- [ ] Are the supplementary tables/figures pretty enough, numbers correctly formatted, table headers detailed enough?
 - [ ] In the acknowledgments, are all grants acknowledged with correct IDs? Are students' scholarships acknowledged? Are your institutions (HPC!) acknowledged?
+~
 - [ ] Have you run the spellchecker manually one last time?
 - [ ] Have you uploaded all files the text references, including the coverletter?
 - [ ] Have you clicked the submit button?
