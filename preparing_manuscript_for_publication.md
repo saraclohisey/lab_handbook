@@ -88,7 +88,26 @@ Give yourself a night to sleep on reviews before taking any steps.
   
 Read through them a number of times, formulate a plan and then contact your co-authors.
 
-  
+### Addressing Comments
+
+Brief rules:
+- Be polite. Be nice. You may not agree with the reviewers but you don't need to be mean about it.
+- Make everything easy for the editor/reviewer.
+- If it is your first time, please ask more experienced lab members for some examples.
+- If you change figures, don't make the reviewers go searching.
+
+Create two new files:
+
+- File1 : Copy/Paste all the reviewer comments and after each individual comment write a short response to that comment. For example
+
+`
+Reviewer2: I think you don't know how to add 2+2.
+Answer: We thank Reviewer 2 for this insightful comment. Please see a basic mathematics text for the interpretation of 2+2 which we beleive is in agreement with the conclusions made in our manuscript.
+`
+
+- File2: A copy of the manuscript with all changes tracked (and line numbers referenced in File1). 
+
+
 
 ### Resubmission
 - [ ] When resubmitting, have all co-authors had enough time to comment on the revised manuscript? Should you follow up with co-authors who haven't sent anything?
