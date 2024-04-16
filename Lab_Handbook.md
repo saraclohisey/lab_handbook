@@ -55,7 +55,7 @@ More broadly, we aim to be a lot of different things. We would appreciate if you
 
 * Supportive: Support your lab-mates. Help them out (even if you aren’t ‘on the project’) and be a friendly ear when they need it. Science should be collaborative, not competitive. If you help others you can expect others to help you when you need it. 
 
-* Honourable: Honesty is the best policy, especially in science. It is never ok to plagiarize, tamper with data, fabricate data, or fudge results. Null or unexpected results are normal and still important. We can do important, cool and high impact science without resorting to these practices. This cannot be emphasized enough; academic misconduct will not be tolerated. If a mistake is made admit it, correct it and move on. This may require telling collaborators if you have already shown them results or if they are working with data downstream from where an error has been discovered. *Honesty and integrity above impact.*
+* Honourable: Honesty is the best policy, especially in science. It is never ok to plagiarise, tamper with data, fabricate data, or fudge results. Null or unexpected results are normal and still important. We can do important, cool and high impact science without resorting to these practices. This cannot be emphasized enough; academic misconduct will not be tolerated. If a mistake is made admit it, correct it and move on. This may require telling collaborators if you have already shown them results or if they are working with data downstream from where an error has been discovered. *Honesty and integrity above impact.*
 
 * Efficient: Work carefully. Rushing often leads to the wasting of resources and/or making mistakes. Mistakes happen – but they should not be because of carelessness or rushed work.
 
@@ -65,30 +65,28 @@ More broadly, we aim to be a lot of different things. We would appreciate if you
 
 ### Line Managers and Supervisors
 
-Line managers and supervisors are responsible for the day-to-day admin associated with us being a lab. Double check who your line manager is if you are a staff member and check in with them regularly. Below we'll use Line Manager to mean both.
+Line managers and supervisors are responsible for the day-to-day admin associated with us being a lab. Double-check who your line manager is if you are a staff member and check in with them regularly. Below we'll use Line Manager to mean both.
 
-### Lab Meetings - Wednesdays @ 2pm
+### Lab Meetings - Wednesdays @ 2:30pm at Roslin
 
 Contribute in lab meeting and come prepared – especially if you are the primary presenter!
-30 minute long Lab Meetings are held once a week at 2pm on Wednesday on baillielab.net/zoom.
+30 minute long Lab Meetings are held once a week at 2:30pm on Wednesday on baillielab.net/zoom, room 1-113 or at the PSH.
 Lab members will take turns leading. A schedule assigning weeks is available at baillielab.net/internal.
 When it is your week to present you have the options of:
-* Leading the discussion of a journal article or topic of your choice.
 * Getting feedback on a manuscript you are working on.
-* Presenting an update on an in progress or completed project.
+* Presenting an update on an in-progress or completed project.
 * Giving a practice talk for an upcoming seminar, conference presentation or interview talk.
 
-Note: If leading the discussion of a journal article, or your own manuscript the paper should be sent to the lab email list at least 3 days before lab meeting to give adequate time for reading.
 
 ### Journal club - Every second Friday @ 11am
 
-Along with the chance to present interesting papers at lab meeting, you're invited to take part in journal club which is held mostly online. There is a slack channel for this if you'd like to join and talk to Maaike about being put on the rota. Journal club helps us learn about the different subjects in the lab different people work on, but also a chance to talk about fun and interesting science. One week it's a complicated algorithm, the next an ethical discussion and sometimes it's just pretty microscope pictures :)  
+Along with the chance to present interesting papers at lab meeting, you're invited to take part in journal club which is held mostly online. There is a slack channel for this if you'd like to join and talk to Josh about being put on the rota. Journal club helps us learn about the different subjects in the lab different people work on, but also a chance to talk about fun and interesting science. One week it's a complicated algorithm, the next an ethical discussion and sometimes it's just pretty microscope pictures :)  
 
 ### Meetings - One-on-one and project meetings
 
 * Show up to scheduled meetings and be on time.
 * Email Kenny and Jen if you'd like a one-on-one with Kenny.
-* If you need to speak to Kenny outwith these times, send an email or slack to schedule with him.
+* If you need to speak to Kenny outwith these times, send an emailto schedule with him.
 * If you'd like a one-on-one with a post doc just email or slack them!
 
 
@@ -98,7 +96,7 @@ Along with the chance to present interesting papers at lab meeting, you're invit
 * In fact, there are no precise hours you are expected to keep. As long as you are getting your work done you can do it at whatever time of day you like. One of the benefits of academia is having flexibility in your work schedule. 
 * Do give your line manager an idea of the times you intend to work. This is as much so they know when it's appropriate to contact you as it is to make sure you're safe and comfortable in your work.
 * You are welcome to work ‘off campus’ if doing 'dry' work (i.e from home, a coffee shop etc) but please come in and talk to us! There can be a temptation to work from home a lot, but some professional social interaction will benefit you mentally and also professionally! Some of the best conversations happen at lunch, or next to the Nespresso machine!
-* You are expected to regularly attend the standard weekly institute events such as divisional meetings and internal seminars. This isn't our rule, it's one handed down from the institute. Most of these are hybrid.
+* For those based at Roslin: You are expected to regularly attend the standard weekly institute events such as divisional meetings and internal seminars. This isn't our rule, it's one handed down from the institute. Most of these are hybrid.
 
 ### Lab Calendar
 
@@ -116,9 +114,7 @@ If you are staff, you are expected to inform your line manager or supervisor and
 
 #### Holidays
 
-Let your line manager know if you are intending to be away on holidays. Holidays > 2 consecutive weeks should be discussed – ideally before plans are made. Please enter your holidays in the lab calendar.
-
-If you are staff apply for leave through the campus portal: https://eb.leave.mvm.ed.ac.uk/
+Let your line manager know if you are intending to be away on holidays. Holidays > 2 consecutive weeks should be discussed – ideally before plans are made. 
 
 ### For 'Wet Lab' members:
 
@@ -132,7 +128,7 @@ If you are staff apply for leave through the campus portal: https://eb.leave.mvm
 
 * If something isn’t working let the responsible person (there will be a sign on the piece of equipment) know so we can get it fixed. 
 
-* Just because other labs have bad habits doesn't mena we should.
+* Just because other labs have bad habits doesn't mean we should.
 
 * Make sure you have received training if you are using a piece of equipment for the first time. Even if you have used such a machine elsewhere. This is institute policy. 
 
@@ -175,7 +171,7 @@ There is a degree of independence to the role of post-doc and they are expected 
 RAs are paid researchers carrying out designated, funded laboratory work. For most intents, RAs play similar, less independent, roles to post-docs and work on multiple projects, as hours permit. Often RAs are more concerned with the technical aspects of a project (they make everything work!!)
 
 #### PhD and MSc students
-The main priority of a post grad student is completing a coherent body of research for their thesis. All of the research they undertake for that project could end up being published on its own, but pieces could also be integrated into other lab projects. This is one reason cross-project continuity is important. PhD students will usually move on to a research job elsewhere once their education is complete. At that point, research they carried out that hasn’t been published yet may not be their top priority, and the PI and post-docs can be helpful in ensuring that unfinished strands of work continue to flourish.
+The main priority of a post-grad student is completing a coherent body of research for their thesis. All of the research they undertake for that project could end up being published on its own, but pieces could also be integrated into other lab projects. This is one reason cross-project continuity is important. PhD students will usually move on to a research job elsewhere once their education is complete. At that point, research they carried out that hasn’t been published yet may not be their top priority, and the PI and post-docs can be helpful in ensuring that unfinished strands of work continue to flourish.
 
 #### Undergraduate researchers (UGRs)
 Most UGRs are involved for less than a year, and therefore must be integrated into a larger project. UGRs learn basic research skills working in the lab, and if involved in a self-contained project (like a UG dissertation), they also take responsibility for interim communications about the work they carried out. Because their time in the lab is so limited, it is very important that UG research is well-documented so that the lab can efficiently carry it forward.
@@ -229,7 +225,7 @@ Design experiments with someone else, do not trust your experimental design unti
 ##### Organisation in the lab
 
 It is vitally important you keep a good record of your specialised reagents, especially expensive ones, and anything you create.
-For this reason in 2021 we are implementing a systematic way of recording EVERYTHING.
+For this reason we are implementing a systematic way of recording EVERYTHING.
 
 
 ...
@@ -286,15 +282,13 @@ Spend your grant responsibly. You will be free to spend without approval up to a
 #### Project grants
 We have a responsibility to funders to spend grants appropriately. Do not spend grant money from project A on project B!
 
-We have shared grant with other labs for consumables, historically named the 'Maclab communal budget'. What this can be spent on is tightly controlled and the expenditure is audited yearly.
-
 #### Central lab grants
-These will be accessible to all lab members and will be used to support core lab activitues, both day-to-day and long term. If you think something should go on a central grant, check with Sara.
+These will be accessible to all lab members and will be used to support core lab activities, both day-to-day and long term. If you think something should go on a central grant, check with Sara.
 
 #### When a grant is ending
-Normally, any money not used in  agrant will be taken back by the funder.
+Normally, any money not used in a grant will be taken back by the funder.
 
-If you are coming to the end of a grant work on a 3 month deadline:
+If you are coming to the end of a grant work on a 3-month deadline:
 -Month e-3 = Determine what you will need after your grant end date, plan and contact reps to detrmine shipping dates for larger items.
 -Month e-2 = Order what you need. Try not to order *after* e-2.
 -Month e-1 = Your invoices for last month will now come in. Everything will come out of the remaining grant balance before it ends and finance is not angry with you.
@@ -428,7 +422,7 @@ Resources welcome.
 
 ## When things aren't going well
 
-Self awareness is something everyone struggles with. There's whole schools of philosophical thought centred around developing it. With this in mind, try to keep an objective view of your progress but remember that this may not always be possible. The picture below can be useful if you're feeling a bit off your game.
+Self-awareness is something everyone struggles with. There's whole schools of philosophical thought centred around developing it. With this in mind, try to keep an objective view of your progress but remember that this may not always be possible. The picture below can be useful if you're feeling a bit off your game.
 
 ![](https://i.imgur.com/L1bKHvH.png)
 
@@ -445,8 +439,9 @@ Self awareness is something everyone struggles with. There's whole schools of ph
 
 ### When relationships are strained
 
-* If there is tension, conflict or hostility in the lab it needs to be resolved as soon as possible. If you don’t feel comfortable confronting the person in question or if the situation is escalating, tell Kenny, Sara or Erola.
-* If you have a problem with Kenny and are comfortable telling him about it, please do so. If you aren’t comfortable then tell another lab member or another member of the institute (for more serious issues). 
+* If there is tension, conflict or hostility in the lab it needs to be resolved as soon as possible. If you don’t feel comfortable confronting the person in question or if the situation is escalating, tell Kenny, Wilna, Sara or Erola.
+* If you have a problem with Kenny and are comfortable telling him about it, please do so. If you aren’t comfortable then tell another lab member or another member of the institute (for more serious issues).
+* Jayne Hope is Deputy Director of the Roslin Institute and is available for any and all problems. She is experienced in conflict resolution and can be of great help if relationships have become unmanageable. 
 
 
 
