@@ -58,7 +58,7 @@ The tidier your submission is, the higher your chance of having it accepted! The
     - [ ] Orcid IDs. 
 ~. 
 - [ ] Reread the journal's formatting rules - are you really following them? 
-- [ ]Are you sure about the order of your sections, and that you have all required sections?
+- [ ] Are you sure about the order of your sections, and that you have all required sections?
 - [ ] Are your references in the right format? 
 - [ ] Do you have in-text references not in your References block? 
 - [ ] Do you have duplicated references? (You can have Person 2016a and Person 2016b, but they're just two slightly differently spelled entries in your library). 
