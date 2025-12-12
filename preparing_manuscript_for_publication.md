@@ -2,10 +2,10 @@
 
 ## Writing the paper
 
-This document assumes you have a paper written that your PI is happy with and you're ready to submit. 
+This document assumes you have a paper written that your PI and imediate co-authors are happy with and you're ready to submit. 
 
 
-### Sample email to co-authors before submission
+### Sample email to ALL co-authors before submission
 
 Dear X
 Attached is the final draft of manuscript "[TITLE]". Thank you all for your excellent contribution to this work. 
@@ -17,30 +17,35 @@ If we don't hear from you, we will assume you are OK with the submission of this
 Thanks again,
 
 Yours,
-Bo
+XXX
+
+
+### Choosing a journal
+
+- [ ] Field specific?
+- [ ] Is imapct factor important?
 
 
 
 ### The coverletter
 - [ ] Is the paper-title in the coverletter still the same as in the manuscript?
-- [ ] Is it on Roslin headed paper?
+- [ ] Is it on Roslin/PSH headed paper?
 - [ ] Is it signed by *all* corresponding authors?
+Helpful link: https://scientific-publishing.webshop.elsevier.com/publication-process/how-to-write-a-cover-letter-for-a-manuscript/
 
-
-
-The list below was altered from https://github.com/philippbayer/
-
-The tidier your submission is, the higher your chance of having it accepted!
 
 ### First submission and resubmission
 
+The tidier your submission is, the higher your chance of having it accepted! The list below was altered from https://github.com/philippbayer/
+
+- [ ] Have you been kind to yourself and others?  
 - [ ] Are all tables/figures (including supplementary!) referenced in the text?
 - [ ] Does the order of figures, tables, supplementary tables follow the order they're mentioned in the text?
 - [ ] Are the tables in your Supplementary Tables file in the right order, i.e., does Table S2 still follow Table S1?
 - [ ] Are your figures color-blind friendly? Check with tools like http://mapeper.github.io/jsColorblindSimulator/ (thanks @Psy_Fer_, @AgnieszkaGolicz, @_erikaroper!)
 - [ ] Is your coloring scheme consistent across figures, where applicable?
 - [ ] Are the supplementary tables/figures pretty enough, numbers correctly formatted, table headers detailed enough?  
-~. 
+~.
 - [ ] If you have any paper-wide set orders of things (like species B, species C, species D), are they consistent in the text, tables, figures?
 - [ ] Is there any leftover placeholder text like (CITATION), doi://XYZ, Table X, [TODO]? 
 - [ ] Are species names in your text/figures/tables in italics?
@@ -52,11 +57,13 @@ The tidier your submission is, the higher your chance of having it accepted!
     - [ ] What about their affiliations?
     - [ ] Orcid IDs. 
 ~. 
-- [ ] Reread the journal's formatting rules - are you really following them? Are you sure about the order of your sections, and that you have all required sections?
-- [ ] Are your references in the right format? Do you have in-text references not in your References block? Are species names in italics? 
+- [ ] Reread the journal's formatting rules - are you really following them? 
+- [ ]Are you sure about the order of your sections, and that you have all required sections?
+- [ ] Are your references in the right format? 
+- [ ] Do you have in-text references not in your References block? 
 - [ ] Do you have duplicated references? (You can have Person 2016a and Person 2016b, but they're just two slightly differently spelled entries in your library). 
 ~. 
-- [ ] Is your data deposited in the required repositories (SRA, Zenodo etc.), and is the link in the manuscript? (thanks @sarvenaz_s!). 
+- [ ] Is your data deposited in the required repositories (SRA, Zenodo etc.), and is the link in the manuscript 
   
 For conda env (thanks Bo!!).  
   
@@ -70,7 +77,7 @@ Which can be used for publishing code with packages requirement.
 - [ ] Have you run the spellchecker manually one last time?
 - [ ] Have you uploaded all files the text references, including the coverletter?
 - [ ] Have you clicked the submit button?
-- [ ] Have you been kind to yourself and others?  
+- [ ] Check again: Have you been kind to yourself and others? 
   
 ## Wait for your answer
   
@@ -83,10 +90,14 @@ Sometimes, you can appeal this, but this is something you will have to discuss i
 ## Reviews
   
 Keep. Calm.
+
+The person who has reviewed your paper is just that. A person. They may be right and they may be wrong. Try to think critically about the feedback. 
   
 Give yourself a night to sleep on reviews before taking any steps.
   
 Read through them a number of times, formulate a plan and then contact your co-authors.
+
+Do you have a deadline for the resubmission?
 
 ### Addressing Comments
 
