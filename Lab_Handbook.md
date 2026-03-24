@@ -5,7 +5,6 @@
 -!! Skill Profiles!!
 
 
-- Resources - MK and MHF had some ideas
 - Eddie explainer. Not 'how to' but 'why it's set like this'
 https://www.wiki.ed.ac.uk/display/ResearchServices/Job+Submission
 - Guide on writing a paper
@@ -67,10 +66,10 @@ More broadly, we aim to be a lot of different things. We would appreciate if you
 
 Line managers and supervisors are responsible for the day-to-day admin associated with us being a lab. Double-check who your line manager is if you are a staff member and check in with them regularly. Below we'll use Line Manager to mean both.
 
-### Lab Meetings - Wednesdays @ 2:30pm at Roslin
+### Lab Meetings - Wednesdays @ 2:00pm at PSH main meetin groom and online Teams
 
 Contribute in lab meeting and come prepared – especially if you are the primary presenter!
-30 minute long Lab Meetings are held once a week at 2:30pm on Wednesday on baillielab.net/zoom, room 1-113 or at the PSH.
+1 hour  long Lab Meetings are held once a week.
 Lab members will take turns leading. A schedule assigning weeks is available at baillielab.net/internal.
 When it is your week to present you have the options of:
 * Getting feedback on a manuscript you are working on.
@@ -82,11 +81,10 @@ When it is your week to present you have the options of:
 
 Along with the chance to present interesting papers at lab meeting, you're invited to take part in journal club which is held mostly online. There is a slack channel for this if you'd like to join and talk to Josh about being put on the rota. Journal club helps us learn about the different subjects in the lab different people work on, but also a chance to talk about fun and interesting science. One week it's a complicated algorithm, the next an ethical discussion and sometimes it's just pretty microscope pictures :)  
 
-### Meetings - One-on-one and project meetings
+### Meetings - One:one and project meetings
 
 * Show up to scheduled meetings and be on time.
-* Email Kenny and Jen if you'd like a one-on-one with Kenny.
-* If you need to speak to Kenny outwith these times, send an emailto schedule with him.
+* Email Kenny if you'd like a one-on-one with Kenny.
 * If you'd like a one-on-one with a post doc just email or slack them!
 
 
@@ -110,10 +108,10 @@ Take them. If you are sick stay at home unless it is absolutely 100% necessary t
 
 If you live alone, or will be alone temporarily, and are sick please let us know. This is aimed in particular at international students. Do not suffer through sickness alone, it can be scary.
 
-If you are staff, you are expected to inform your line manager or supervisor and HR, as per institute policy, when you take a sick day. 
+If you are staff, you are expected to inform your line manager or supervisor and HR, as per UoE and institute policy, when you take a sick day. 
 
 #### Holidays
-
+ 
 Let your line manager know if you are intending to be away on holidays. Holidays > 2 consecutive weeks should be discussed – ideally before plans are made. 
 
 ### For 'Wet Lab' members:
@@ -124,16 +122,16 @@ Let your line manager know if you are intending to be away on holidays. Holidays
 
 * Treat equipment with respect. Don't get blood on a centrifuge and not clean it up. 
 
-* Use booking sheets/calendars/diarys. If you don't it's your problem. Do not use a machine you haven't booked if is booked by someone else, without discussing with them first. Your 'just a ten minute spin' might throw off a whole timecourse!
+* Use booking sheets/calendars/diarys. Do not use a machine you haven't booked if is booked by someone else, without discussing with them first. Your 'just a ten minute spin' might throw off a whole timecourse!
 
 * If something isn’t working let the responsible person (there will be a sign on the piece of equipment) know so we can get it fixed. 
 
-* Just because other labs have bad habits doesn't mean we should.
+* Just because other labs have bad habits doesn't mean you should.
 
 * Make sure you have received training if you are using a piece of equipment for the first time. Even if you have used such a machine elsewhere. This is institute policy. 
 
 ### Useful resources
-- Easter bush data methods club (datamethodsclub@mlist.is.ed.ac.uk) for questions about statistical analysis/ R. Also give lectures on specific topics, like introduction to R.  They are very enthusiastic! 
+- Easter bush data methods club (datamethodsclub@mlist.is.ed.ac.uk) for questions about statistical analysis/ R. They meet every Tuesday at 2pm for drop-in sessions. Also, they give lectures on specific topics, like introduction to R.  They are very enthusiastic! 
 
 ---
 ## Roles and responsibilities
@@ -188,11 +186,10 @@ In order to have confidence in our work, it is important that others are able to
 
 #### Dry lab work
 
-**SOPS NEED TO BE ESTABLISHED**
 
 To ensure reproducibility your analysis pipeline should be well organized and well documented. 
 
-You will be provided with an institute lab book and it is institute policy to record you project progression in this.
+You will be provided with an institute lab book and it is institute policy to record your project progression in this.
 
 It is important to take extensive notes for each step of your analysis pipeline – this includes indicating any pre-processing of the data. 
 
@@ -204,7 +201,7 @@ All data, code and samples must be archived.
 
 All code should have tests.
 
-The lab has a Github Team (https://github.com/baillielab). Ask Kenny/Jen to invite you to this.
+The lab has a Github Team (https://github.com/baillielab). Ask Kenny to invite you to this.
 
 Repositories should be kept clean and up to date. 
 
@@ -217,7 +214,7 @@ __Keep a record of everything in your lab book.__ This is institute policy. Ensu
 
 Duplicates are _*necessary*_. One robust result is better than three unconvincing results.
 
-Templates for plate layouts, PCR mixtures, Plaque assay calculations are available in the lab Dropbox.
+Templates for plate layouts, PCR mixtures, Plaque assay calculations are available in this repo.
 
 Design experiments with someone else, do not trust your experimental design until it has been verified. 
 
@@ -270,7 +267,7 @@ Most lab members will be part of multiple Slack groups and notifications can get
 
 * Email - usually slower than Slack and can even be less reliable given the volume of emails some lab members receive. Please use email responsibly and send a Slack DM if your message is short! 
 
-* Telephone - If you have an emergency the phone numbers of specific lab members are available in the Dropbox. Whatsapp and text messaging are not recommended for work related chat as they are harder to escape from...but emergencies might necessitate this.
+* Telephone - If you have an emergency the phone numbers of specific lab members are available in this repo. Whatsapp and text messaging are not recommended for work related chat as they are harder to escape from...but emergencies might necessitate this.
 
 ### Money
 
@@ -301,6 +298,15 @@ While there may be a period of time where you enjoy spending all of your time wo
 
 Unless there's something going on that you *need* to be present for (last minute grant, paper for example), turn off notifications from email and Slack outside your normal working hours. 
 
+### Wellbeing
+
+One of the hardest things when you're not doing well mentally is realising it. Here are some respurces you cna check out to help you check in.
+
+- NHS resources: https://www.nhs.uk/every-mind-matters/
+- Further NHS resources: https://www.uhs.nhs.uk/for-patients/waiting-well/wellbeing-and-mental-health-resources-waiting-well
+- Tips for managing stress: https://www.mind.org.uk/information-support/types-of-mental-health-problems/stress/managing-stress-and-building-resilience/
+
+Please let someone in the lab know if you are struggling, whether that's mentally or you just have a lot on. 
 
 ---
 
