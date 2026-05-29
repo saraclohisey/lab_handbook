@@ -24,6 +24,7 @@ Read through them a number of times, formulate a plan and then contact your co-a
 
 Brief rules: Nice and Easy.
 - Be polite. Be *nice*. You may not agree with the reviewers but you don't need to be confrontational about it.
+
 - Make everything *easy* for the editor/reviewer. If you change figures, don't make the reviewers go searching.
 
 Create two new files:
@@ -32,7 +33,7 @@ Create two new files:
 
 `
 Reviewer2: I think you don't know how to add 2+2.
-Answer: We thank Reviewer 2 for this insightful comment. Please see a basic mathematics text for the interpretation of 2+2 which we beleive is in agreement with the conclusions made in our manuscript.
+Answer: We thank Reviewer 2 for this insightful comment. Please see a basic mathematics text for the interpretation of 2+2 which we believe is in agreement with the conclusions made in our manuscript.
 `
 
 - File2: A copy of the manuscript with all changes tracked (and line numbers referenced in File1). 
