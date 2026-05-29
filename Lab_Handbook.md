@@ -1,24 +1,5 @@
 # Lab Handbook
 
-<!--Sections to be added:
-
--!! Skill Profiles!!
-
-
-- Eddie explainer. Not 'how to' but 'why it's set like this'
-https://www.wiki.ed.ac.uk/display/ResearchServices/Job+Submission
-- Guide on writing a paper
-https://vimeo.com/524236482/74da4b1e0d
-- Guide to writing a thesis
-- Outline for students of the milestones expected by the institute.
-- Specify naming conventions:
-    - plasmids - see for oligos
-    - oligos/primers - MJ suggested the pMJ001 and oMJ001 convetion. SC agrees.
-    - filenames - agree upon a convention, final say by Kenny
-    - project numbers -are these necessary?
-    - library names for RNA-seq, CAGE, WGS etc.
-
--->
 
 ## Joining the lab
 
@@ -75,11 +56,7 @@ When it is your week to present you have the options of:
 * Getting feedback on a manuscript you are working on.
 * Presenting an update on an in-progress or completed project.
 * Giving a practice talk for an upcoming seminar, conference presentation or interview talk.
-
-
-### Journal club - Every second Friday @ 11am
-
-Along with the chance to present interesting papers at lab meeting, you're invited to take part in journal club which is held mostly online. There is a slack channel for this if you'd like to join and talk to Josh about being put on the rota. Journal club helps us learn about the different subjects in the lab different people work on, but also a chance to talk about fun and interesting science. One week it's a complicated algorithm, the next an ethical discussion and sometimes it's just pretty microscope pictures :)  
+ 
 
 ### Meetings - One:one and project meetings
 
@@ -96,9 +73,6 @@ Along with the chance to present interesting papers at lab meeting, you're invit
 * You are welcome to work ‘off campus’ if doing 'dry' work (i.e from home, a coffee shop etc) but please come in and talk to us! There can be a temptation to work from home a lot, but some professional social interaction will benefit you mentally and also professionally! Some of the best conversations happen at lunch, or next to the Nespresso machine!
 * For those based at Roslin: You are expected to regularly attend the standard weekly institute events such as divisional meetings and internal seminars. This isn't our rule, it's one handed down from the institute. Most of these are hybrid.
 
-### Lab Calendar
-
-The lab calendar is no longer in use. 
 
 ### Leave 
 
@@ -184,60 +158,7 @@ The responsibilities of lab members are detailed in the section 'Your work' belo
 
 In order to have confidence in our work, it is important that others are able to reproduce our results. Reproducible research is an essential component of science and an expectation for all projects coming out of the lab.
 
-#### Dry lab work
 
-
-To ensure reproducibility your analysis pipeline should be well organized and well documented. 
-
-You will be provided with an institute lab book and it is institute policy to record your project progression in this.
-
-It is important to take extensive notes for each step of your analysis pipeline – this includes indicating any pre-processing of the data. 
-
-It is also important to keep detailed notes on your experimental design. 
-
-Your code should be clearly commented and in way that would be interpretable to someone else.
-
-All data, code and samples must be archived.
-
-All code should have tests.
-
-The lab has a Github Team (https://github.com/baillielab). Ask Kenny to invite you to this.
-
-Repositories should be kept clean and up to date. 
-
-__Remember__: It might make sense to you now, but it won't in 6 months, 1 month....5 minutes?
-
-
-#### Wet lab work
-
-__Keep a record of everything in your lab book.__ This is institute policy. Ensure you use the content pages and ensure your lab book is regularly signed off by your lab book partner.
-
-Duplicates are _*necessary*_. One robust result is better than three unconvincing results.
-
-Templates for plate layouts, PCR mixtures, Plaque assay calculations are available in this repo.
-
-Design experiments with someone else, do not trust your experimental design until it has been verified. 
-
-
-##### Organisation in the lab
-
-It is vitally important you keep a good record of your specialised reagents, especially expensive ones, and anything you create.
-For this reason we are implementing a systematic way of recording EVERYTHING.
-
-
-...
-...
-
-...
-
-
-EVERYTHING PEOPLE> EV.REE.THING. 
-
-###### Freezers
-
-- Freezers are cold dark bottomless pits. Remember this.
-- Every lab member has a -20 C freezer drawer. It is your responsibility to keep your drawer organised and to know what is in there.
-- We also have a communal freezer, Unicorn. This freezer contains shared frozen reagents, 
 
 
 ### Deadlines and Feedback
@@ -298,19 +219,7 @@ While there may be a period of time where you enjoy spending all of your time wo
 
 Unless there's something going on that you *need* to be present for (last minute grant, paper for example), turn off notifications from email and Slack outside your normal working hours. 
 
-### Wellbeing
-
-One of the hardest things when you're not doing well mentally is realising it. Here are some respurces you cna check out to help you check in.
-
-- NHS resources: https://www.nhs.uk/every-mind-matters/
-- Further NHS resources: https://www.uhs.nhs.uk/for-patients/waiting-well/wellbeing-and-mental-health-resources-waiting-well
-- Tips for managing stress: https://www.mind.org.uk/information-support/types-of-mental-health-problems/stress/managing-stress-and-building-resilience/
-
-Please let someone in the lab know if you are struggling, whether that's mentally or you just have a lot on. 
-
----
-
-
+----
 
 ## What non-lab/non-bioinformatic skills should you cultivate?
 
@@ -328,93 +237,9 @@ https://www.sciencemag.org/careers/2016/03/how-seriously-read-scientific-paper
 https://www.elsevier.com/connect/infographic-how-to-read-a-scientific-paper
 https://www.huffpost.com/entry/how-to-read-and-understand-a-scientific-paper_b_5501628?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAADka9u7nTeb1BORYAIdK9-KRJoJcMv1TZIeh4CR5Pzwf2ZEjQfgESYwPGs9NQ50ygRONNAtQyK8vQlIkaq3muN3ERM5jrKmUliXBrC3oy5Ju0dBS1ADxWWzfDFKRJyf7LG_yuFZgue4LU-xhQUG2tpa7srEEbnwKnY_4MO1h4J_o
 
-### Critical appraisal of the literature
-
-<!--(as requested by Sara 20 Nov 2020 following journal club)-->
-
-Some ideas for systematically reviewing a paper - these come from appraisal of an RCT (randomised clinical trial, or 'human experiment') but perhaps some of the points are valid for any experiment.
-
-
-Validity: is the strength of our conclusions. In short, are the conclusions correct or believable?
-- Internal Validity 	
-    - Is the study conducted well? 
-    - Do you believe the results? 
-    - Are there sources of bias?
-- External Validity
-    - Can the results of this trial be used to guide treatment your patients?
-    - or would the experiment work outside of that lab, is it generalisable?
-
-Are there sources of Chance, Error, Bias , Confounding?
-- Chance: is it adequately powered?
-- Error:  measurements are always open to error
-- Bias:  can be thought of as error which affects one group more than another
-- Confounding:  “variables capable of producing spurious associations between treatment and outcome, not attributable to their causative dependence”
-
-System to critically appraise a paper
-1) summarise it simply
-2) check quality and validity
-   a)  Internal Validity:  Is the study well conducted?
-    b) External Validity:  Are the results clinically useful?
-3) Present the results in a user friendly way
-
-
-### Concise, understandable writing.
-
-*Get it writ then get it right*
-
-Writing takes practice, just look at all the typos Sara managed to make in this document. 
-During your scientific career there are two things you will not be able to avoid writing:
-- Your thesis
-- A scientific paper
-And if you choose to continue in academia, good luck avoiding grant applications.
-Each document will have its own structure and layout but all will require clear and concise writing. Practice as often as you can and improve by getting feedback. 
-
-One of the most important things to remember about writing is that it is difficult. And that's ok. Scientific writing is a particular style of writing.  It is short sentences, it is jargon while trying to sound clear, it is no split infinitives. 
-
-Here are some resources to help you get started with writing:
-https://www.nature.com/articles/d41586-018-02404-4
-https://www.sciencemag.org/careers/2012/03/how-write-scientist
-
-Here are some resources for common grammar mistakes:
-https://www.grammarly.com/blog/30-grammar-mistakes-writers-should-avoid/
-https://www.grammarly.com/blog/affect-vs-effect/#:~:text=Here's%20the%20short%20version%20of,the%20result%20of%20a%20change.
 
 
 
-### Creating a presentation
-A presentation is telling a story. Having a beginning a middle and an end is a necessity. 
-
-#### Beginning 'Here's what I'm going to talk about'
-- Frame the question you are answering
-- Give some background - remember your audience might not be familiar with your subject.
-- State your question
-
-#### Middle 'This is me talking about it'
-- Introduce your methods
-- Results should be framed as part of a whole
-- Explain how a result answers a question or subquestion
-- Conclusions should lead to the next question
-
-#### End 'This is what I said'
-- Explain how your results have answered, or don't answer, or partially answer your question
-- Describe limitations and advantages of your approach or results
-- What will you do next
-- Summary slides do not have to be bullet points, but it's definitely convenient
-- Acknowledge everyone! (or as many people as you can!)
-
-
-When you give a presentation, especially at a conference or seminar, you expect that everyone in the room is looking at you. But they're not. They're thinking about lunch. They're staring at their phone. Or they're purposefully forming a question specifically crafted to throw you off your game (I doubt anyone _actually_ sets out to do this...).  Because of this, you need to make understanding your slides an impossibly easy task for them. 
-
-Designing a slide is an art. There are some guidelines you can follow that can help make it easier for you:
-
-- Put the conclusion in the title. That way if someone doesn't listen to you, your point is right there on the top of the slide.
-- Less is more, particularly with text. No one is reading a wall of text. A few words should be sufficient to communicate your conclusion.
-- Pictures tell 1000 words. Use pictures where you can to communicate ideas. Not only will creating the pictures help you solidify your ideas but they are easier for your audience to digest when they look up from Facebook.
-- Keep animations to a minimum. Animations should be used to slowly introduce ideas and guide your audience.
-- Keep slides consistent. Choose a style and stick to it.
-- Make it colour blind friendly. It's just polite.
-
-Resources welcome.
 
 
 
@@ -426,28 +251,6 @@ Resources welcome.
 
 ---
 
-## When things aren't going well
-
-Self-awareness is something everyone struggles with. There's whole schools of philosophical thought centred around developing it. With this in mind, try to keep an objective view of your progress but remember that this may not always be possible. The picture below can be useful if you're feeling a bit off your game.
-
-![](https://i.imgur.com/L1bKHvH.png)
-
-
-
-
-
-### It's ok not to be ok - tell someone
-* If you are struggling tell someone. Science is hard and your health and happiness are important! We are here to help, please don’t suffer alone. Everyone finds things difficult at some times.
-
-* If you feel you are not progressing please speak to someone. There's a really good chance you're over-estimating what is expected of you.
-
-* If you make a mistake, telling someone sooner rather than later is always the best strategy. We will have regular meetings to discuss such occurences, but these are to review not report. 
-
-### When relationships are strained
-
-* If there is tension, conflict or hostility in the lab it needs to be resolved as soon as possible. If you don’t feel comfortable confronting the person in question or if the situation is escalating, tell Kenny, Wilna, Sara or Erola.
-* If you have a problem with Kenny and are comfortable telling him about it, please do so. If you aren’t comfortable then tell another lab member or another member of the institute (for more serious issues).
-* Jayne Hope is Deputy Director of the Roslin Institute and is available for any and all problems. She is experienced in conflict resolution and can be of great help if relationships have become unmanageable. 
 
 
 
