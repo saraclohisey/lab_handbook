@@ -2,6 +2,13 @@
 ### Creating a presentation
 A presentation is telling a story. Having a beginning a middle and an end is a necessity. 
 
+Read/Watch these:
+
+- [ ] https://pmc.ncbi.nlm.nih.gov/articles/PMC8638955/
+- [ ] 'How to speak' - https://ocw.mit.edu/courses/res-tll-005-how-to-speak-january-iap-2018/
+
+
+
 #### Beginning 'Here's what I'm going to talk about'
 - Frame the question you are answering
 - Give some background - remember your audience might not be familiar with your subject.
